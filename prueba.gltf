@@ -1,0 +1,515 @@
+{
+    "accessors": [
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2304,
+            "max": [
+                1.25,
+                1.25,
+                0.25
+            ],
+            "min": [
+                -1.25,
+                -1.25,
+                -0.25
+            ],
+            "name": "accessor_buffer_Torus_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 192,
+            "max": [
+                0.9951847195625305,
+                0.9951847791671753,
+                1.0
+            ],
+            "min": [
+                -0.9951847791671753,
+                -0.9951847195625305,
+                -1.0
+            ],
+            "name": "accessor_buffer_Cylinder_1",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 3456,
+            "max": [
+                2303
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Torus_2",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 2304,
+            "max": [
+                0.9639958739280701,
+                0.9639962315559387,
+                0.9657869338989258
+            ],
+            "min": [
+                -0.9639958739280701,
+                -0.9639962315559387,
+                -0.9657869935035706
+            ],
+            "name": "accessor_buffer_Torus.001_1",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2304,
+            "max": [
+                1.25,
+                1.25,
+                0.25
+            ],
+            "min": [
+                -1.25,
+                -1.25,
+                -0.25
+            ],
+            "name": "accessor_buffer_Torus.001_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 3456,
+            "max": [
+                2303
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Torus.001_2",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 192,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "name": "accessor_buffer_Cylinder_0",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 1984,
+            "max": [
+                0.9904382824897766,
+                0.9904387593269348,
+                0.9951385855674744
+            ],
+            "min": [
+                -0.9904382824897766,
+                -0.9904382824897766,
+                -0.9951385259628296
+            ],
+            "name": "accessor_buffer_Sphere_1",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 2304,
+            "max": [
+                0.9639958739280701,
+                0.9639962315559387,
+                0.9657869338989258
+            ],
+            "min": [
+                -0.9639958739280701,
+                -0.9639962315559387,
+                -0.9657869935035706
+            ],
+            "name": "accessor_buffer_Torus_1",
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 372,
+            "max": [
+                191
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Cylinder_2",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 2880,
+            "max": [
+                1983
+            ],
+            "min": [
+                0
+            ],
+            "name": "accessor_buffer_Sphere_2",
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1984,
+            "max": [
+                1.000000238418579,
+                0.9999991655349731,
+                1.0
+            ],
+            "min": [
+                -0.9999998211860657,
+                -1.0000003576278687,
+                -1.0
+            ],
+            "name": "accessor_buffer_Sphere_0",
+            "type": "VEC3"
+        }
+    ],
+    "asset": {
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4608,
+            "byteOffset": 0,
+            "byteStride": 24,
+            "name": "bufferView_buffer_Cylinder_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 744,
+            "byteOffset": 4608,
+            "name": "bufferView_buffer_Cylinder_1",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 47616,
+            "byteOffset": 5352,
+            "byteStride": 24,
+            "name": "bufferView_buffer_Sphere_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5760,
+            "byteOffset": 52968,
+            "name": "bufferView_buffer_Sphere_1",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 55296,
+            "byteOffset": 58728,
+            "byteStride": 24,
+            "name": "bufferView_buffer_Torus_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6912,
+            "byteOffset": 114024,
+            "name": "bufferView_buffer_Torus_1",
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 55296,
+            "byteOffset": 120936,
+            "byteStride": 24,
+            "name": "bufferView_buffer_Torus.001_0",
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6912,
+            "byteOffset": 176232,
+            "name": "bufferView_buffer_Torus.001_1",
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 183144,
+            "name": "buffer_combined",
+            "uri": "buffer_combined.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "name": "Camera",
+            "perspective": {
+                "aspectRatio": 1.703595982340029,
+                "yfov": 0.5033799409866333,
+                "zfar": 100.0,
+                "znear": 0.10000000149011612
+            },
+            "type": "perspective"
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Cylinder",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 6
+                    },
+                    "indices": 9,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Sphere",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 7,
+                        "POSITION": 11
+                    },
+                    "indices": 10,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Torus",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 8,
+                        "POSITION": 0
+                    },
+                    "indices": 2,
+                    "mode": 4
+                }
+            ]
+        },
+        {
+            "name": "Torus.001",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 4
+                    },
+                    "indices": 5,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "camera": 0,
+            "name": "Camera",
+            "rotation": [
+                0.483536034822464,
+                0.20870360732078552,
+                0.33687159419059753,
+                0.7804827094078064
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                7.481131553649902,
+                -6.5076398849487305,
+                5.34366512298584
+            ]
+        },
+        {
+            "mesh": 0,
+            "name": "Cylinder",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.7025147676467896
+            ]
+        },
+        {
+            "name": "Lamp",
+            "rotation": [
+                0.16907575726509094,
+                0.27217137813568115,
+                0.7558802962303162,
+                0.570947527885437
+            ],
+            "scale": [
+                1.0,
+                0.9999999403953552,
+                1.0
+            ],
+            "translation": [
+                4.076245307922363,
+                1.0054539442062378,
+                5.903861999511719
+            ]
+        },
+        {
+            "mesh": 1,
+            "name": "Sphere",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                -0.14258557558059692,
+                0.03718149662017822,
+                2.785580635070801
+            ]
+        },
+        {
+            "mesh": 2,
+            "name": "Torus",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                1.8260613679885864
+            ]
+        },
+        {
+            "mesh": 3,
+            "name": "Torus.001",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                -0.07300004363059998,
+                0.05588735267519951,
+                -0.011005401611328125
+            ]
+        },
+        {
+            "children": [
+                3,
+                5,
+                4,
+                1,
+                2,
+                0
+            ],
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "name": "Scene_root"
+        }
+    ],
+    "samplers": [
+        {
+            "name": "default"
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "extras": {
+                "active_camera": 0,
+                "background_color": [
+                    0.05087608844041824,
+                    0.05087608844041824,
+                    0.05087608844041824
+                ],
+                "frames_per_second": 24
+            },
+            "name": "Scene",
+            "nodes": [
+                6
+            ]
+        }
+    ]
+}
